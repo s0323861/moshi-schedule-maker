@@ -486,10 +486,10 @@ $schedules = require 'moshi_data.php';
     <div class="container text-center">
         <p class="mb-1">模試日程メーカー</p>
         <small>
-            Developed By <a href="https://tsukuba42195.sakura.ne.jp/">Akira Mukai</a> | <a href="https://github.com/s0323861/">GitHub</a>
+            Developed By <a href="https://tsukuba42195.sakura.ne.jp/">Akira Mukai</a> | <a href="https://github.com/s0323861/moshi-schedule-maker">GitHub</a>
         </small>
         <p>
-            <a href="https://github.com/s0323861/" target="_blank"
+            <a href="https://github.com/s0323861/moshi-schedule-maker" target="_blank"
                class="btn btn-outline-light mt-3">
                 <i class="fab fa-github"></i> GitHub
             </a>
