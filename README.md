@@ -1,4 +1,4 @@
-# TOEIC Calendar Generator
+# 模試日程メーカー
 
 ![PHP](https://img.shields.io/badge/PHP-8.x-blue)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple)
