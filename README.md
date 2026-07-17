@@ -59,7 +59,7 @@ https://tsukuba42195.sakura.ne.jp/moshi/
 | ------------------- | ------------ |
 | `index.php`         | メイン画面        |
 | `generate.php`      | ICS ファイル生成処理 |
-| `schedule_data.php` | 模試日程データ  |
+| `moshi_data.php` | 模試日程データ  |
 | `demo.png`          | デモ画像         |
 | `README.md`         | プロジェクト説明     |
 
