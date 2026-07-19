@@ -4,6 +4,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+![OGP](ogp.png)
+
 河合塾・駿台・代々木ゼミナールなどの模試日程を、Googleカレンダー用のICSファイルとして一括出力できるWebツールです。
 
 受験予定の回を選択するだけで、Google カレンダーに登録可能な `.ics` ファイルを自動生成します。
