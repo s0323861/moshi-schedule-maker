@@ -4,6 +4,42 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>模試日程メーカー - 模試日程をGoogleカレンダーへ追加</title>
+    <meta name="description"
+          content="河合塾・駿台・代ゼミなどの模試日程をGoogleカレンダーへ一括登録できる無料ツールです。">
+
+    <!-- OGP -->
+    <meta property="og:title"
+        content="模試日程メーカー">
+
+    <meta property="og:description"
+        content="河合塾・駿台・代ゼミなどの模試日程をGoogleカレンダーへ一括登録できます。">
+
+    <meta property="og:type"
+        content="website">
+
+    <meta property="og:url"
+        content="https://tsukuba42195.sakura.ne.jp/moshi/">
+
+    <meta property="og:image"
+        content="https://tsukuba42195.sakura.ne.jp/moshi/ogp.png">
+
+    <meta property="og:site_name"
+        content="模試日程メーカー">
+
+    <meta property="og:locale"
+        content="ja_JP">
+
+    <meta name="twitter:card"
+        content="summary_large_image">
+
+    <meta name="twitter:title"
+        content="模試日程メーカー">
+
+    <meta name="twitter:description"
+        content="河合塾・駿台・代ゼミなどの模試日程をGoogleカレンダーへ一括登録できます。">
+
+    <meta name="twitter:image"
+        content="https://tsukuba42195.sakura.ne.jp/moshi/ogp.png">
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
 
@@ -486,11 +522,11 @@ $schedules = require 'moshi_data.php';
     <div class="container text-center">
         <p class="mb-1">模試日程メーカー</p>
         <small>
-            Developed By <a href="https://tsukuba42195.sakura.ne.jp/">Akira Mukai</a> | <a href="https://github.com/s0323861/moshi-schedule-maker">GitHub</a>
+            Developed By <a href="https://tsukuba42195.sakura.ne.jp/">Akira Mukai</a> | <a href="https://github.com/s0323861/moshi-schedule-maker" target="_blank">GitHub</a>
         </small>
         <p>
             <a href="https://github.com/s0323861/moshi-schedule-maker" target="_blank"
-               class="btn btn-outline-light mt-3">
+               class="btn btn-outline-dark mt-3">
                 <i class="fab fa-github"></i> GitHub
             </a>
         </p>
