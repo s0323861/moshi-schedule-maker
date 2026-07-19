@@ -1,8 +1,16 @@
 # 模試日程メーカー
 
-![PHP](https://img.shields.io/badge/PHP-8.x-blue)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple)
-![License](https://img.shields.io/badge/License-MIT-green)
+![PHP](https://img.shields.io/badge/PHP-8.x-blue?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple?style=for-the-badge)
+![License](https://img.shields.io/github/license/s0323861/moshi-schedule-maker?style=for-the-badge)
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge)](https://tsukuba42195.sakura.ne.jp/moshi/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Ftsukuba42195.sakura.ne.jp%2Fmoshi%2F&style=for-the-badge)](https://tsukuba42195.sakura.ne.jp/moshi/)
+
+![GitHub release](https://img.shields.io/github/v/release/s0323861/moshi-schedule-maker?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/s0323861/moshi-schedule-maker?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/s0323861/moshi-schedule-maker?style=for-the-badge)
+
 
 [![OGP](ogp.png)](https://tsukuba42195.sakura.ne.jp/moshi/)
 
