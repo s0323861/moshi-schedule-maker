@@ -6,8 +6,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge)](https://tsukuba42195.sakura.ne.jp/moshi/)
 
-![GitHub release](https://img.shields.io/github/v/release/s0323861/moshi-schedule-maker?style=for-the-badge)
-
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue?style=for-the-badge)](https://github.com/s0323861/moshi-schedule-maker/releases/tag/v1.0.0)
 
 [![OGP](ogp.png)](https://tsukuba42195.sakura.ne.jp/moshi/)
 
