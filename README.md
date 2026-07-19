@@ -84,6 +84,7 @@ https://tsukuba42195.sakura.ne.jp/moshi/
 | `generate.php`      | ICS ファイル生成処理 |
 | `moshi_data.php` | 模試日程データ  |
 | `demo.png`          | デモ画像         |
+| `ogp.png`          | OGP画像         |
 | `README.md`         | プロジェクト説明     |
 
 ---
